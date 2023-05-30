@@ -63,6 +63,7 @@ section {
 
 h2 {
     color: #FFFFFF;
+    font-size: 30px;
 }
 
 p {
@@ -76,7 +77,7 @@ footer {
     background-color: #5959f0;
     padding: 20px;
     text-align: center;
-    font-size: 12px;
+    font-size: 20px;
     color: #FFFFFF;
 }
 
